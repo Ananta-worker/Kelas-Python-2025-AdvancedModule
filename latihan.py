@@ -1,13 +1,5 @@
 """
-Remove all occurrences of val in nums in-place.
-Shift the remaining elements to the front,
-and fill the rest with 0 to maintain the length of nums.
-Args:
-    nums (list of int): input list
-    val (int): value to remove
-
-Returns:
-    list: modified nums list
+Menghapus nilai tertentu dalam list
 """
 
 
